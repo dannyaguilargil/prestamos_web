@@ -1,0 +1,34 @@
+*{
+    
+    color: black;
+}
+article{
+    display: flexbox;
+}
+
+label{
+    color: black;
+}
+.btn.-success{
+    display: block;
+}
+aside{
+    text-align: center;
+    position: absolute left 10px;
+    padding: left;
+    width: 200px;
+    max-width: 200px;
+    height: 200px;
+    max-height: 200px;
+    background: azure;
+    
+}
+.encabezados{
+    padding: 5px;
+}
+.inicio{
+    background: azure;
+}
+.titulor{
+    background: greenyellow;
+}
